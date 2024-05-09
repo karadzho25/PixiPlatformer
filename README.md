@@ -1,5 +1,5 @@
-# PIXI project template
+# PIXI endless platformer
 
-Tutorial: https://gamedev.land/pixi_project_template/
+Created from tutorial: https://gamedev.land/pixi_project_template/
 
 
